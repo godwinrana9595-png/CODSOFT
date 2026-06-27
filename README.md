@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ZenTodo - Premium Task Manager PWA
 
 ZenTodo is a visually elegant, high-performance, and offline-first Progressive Web App (PWA) designed to organize your daily activities. With sleek animations, a responsive interface, and support for Android device installation, ZenTodo represents the pinnacle of modern web utility design.
@@ -43,3 +44,7 @@ To launch ZenTodo on your local network:
 1. Access the hosted application URL (or local server address) using a modern browser like Google Chrome or Firefox on your Android device.
 2. An **Install ZenTodo** banner will slide down automatically.
 3. Tap **Install** to add the application directly to your home screen launcher. It will open in standalone mode with its custom icon.
+=======
+# CODSOFT
+Create a simple to-do list app that allows users to add, edit, and delete tasks.
+>>>>>>> f658a2d77d718ce4a506d884421588040d5f9439
