@@ -1,0 +1,7 @@
+Features built:
+🕐 Live Clock — analog arc rings for seconds & minutes, 12h display with date
+⏰ Alarm Setting — tap/click + button, use the scroll pickers for hour/minute/AM·PM, add a label
+🎵 6 Alarm Tones — Classic Beep, Chime, Pulse, Digital, Gentle Rise, Loud Alarm (previews on tap)
+📋 Alarm List — sorted by time, toggle on/off per alarm, delete button
+💤 Snooze & Dismiss — ringing overlay with 5-minute snooze or instant dismiss
+📲 Install Banner — auto-appears in Chrome/Edge when installable as a PWA; works offline after install
