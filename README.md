@@ -2,8 +2,6 @@
 
 ZenTodo is a visually elegant, high-performance, and offline-first Progressive Web App (PWA) designed to organize your daily activities. With sleek animations, a responsive interface, and support for Android device installation, ZenTodo represents the pinnacle of modern web utility design.
 
-![Theme Mode Comparison](icon.svg)
-
 ## ✨ Features
 
 - **🎯 Task Customization**: Create tasks with titles, detailed descriptions, priority settings (Low, Medium, High), and due dates.
