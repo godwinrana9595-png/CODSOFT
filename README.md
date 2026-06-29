@@ -1,6 +1,6 @@
-# ZenTodo - Premium Task Manager PWA
+# ZenTodo - Premium Task Manager
 
-ZenTodo is a visually elegant, high-performance, and offline-first Progressive Web App (PWA) designed to organize your daily activities. With sleek animations, a responsive interface, and support for Android device installation, ZenTodo represents the pinnacle of modern web utility design.
+ZenTodo is a visually elegant, high-performance, and offline-first Progressive App designed to organize your daily activities. With sleek animations, a responsive interface, and support for Android device installation, ZenTodo represents the pinnacle of modern web utility design.
 
 ## ✨ Features
 
@@ -9,7 +9,7 @@ ZenTodo is a visually elegant, high-performance, and offline-first Progressive W
 - **🔍 Filter & Sort Controls**: Find tasks quickly via a search box, filter tabs (All, Active, Completed), and sort menus (Newest First, Oldest First, Due Date, Priority).
 - **💾 Local Storage Persistence**: Keep your tasks securely stored on your local device. Data persists across browser refreshes.
 - **↩️ Undo Task Deletion**: Satisfying card slide-out animation on delete, coupled with an interactive toast notification allowing you to instantly restore a deleted task.
-- **📱 PWA Installable (Android/Chrome)**: Includes a custom PWA registration engine, manifest configurations, and a service worker to facilitate installation directly onto Android devices, removing browser URL bars and running offline.
+- **📱 Installable (Android/Chrome)**: Includes a custom registration engine, manifest configurations, and a service worker to facilitate installation directly onto Android devices, removing browser URL bars and running offline.
 
 ## 📁 File Structure
 
