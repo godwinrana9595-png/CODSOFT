@@ -8,8 +8,7 @@ This repository contains my internship projects.
 🔗 https://codsoft-ypxa.vercel.app/
 
 ### ⏰ Alarm Clock
-🔗 https://codsoft-w2dj.vercel.app/?_vercel_share=JzQT8ZzflhnnWIn6wZv6A7OnX8g7wRKw
-
+🔗 https://codsoft-w2dj.vercel.app/
 ---
 
 ## 📂 Project Structure
