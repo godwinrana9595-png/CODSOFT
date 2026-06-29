@@ -23,23 +23,3 @@ todolist/
 └── icon.svg       # Premium vector launcher icon
 ```
 
-## 🚀 Getting Started
-
-### Running Locally
-To launch ZenTodo on your local network:
-1. Navigate to the project directory:
-   ```bash
-   cd todolist
-   ```
-2. Start a local web server (e.g., using Python):
-   ```bash
-   python -m http.server 8000
-   ```
-3. Open your browser and navigate to `http://localhost:8000`.
-
-### Installing on Android Devices
-1. Access the hosted application URL (or local server address) using a modern browser like Google Chrome or Firefox on your Android device.
-2. An **Install ZenTodo** banner will slide down automatically.
-3. Tap **Install** to add the application directly to your home screen launcher. It will open in standalone mode with its custom icon.
-# CODSOFT
-Create a simple to-do list app that allows users to add, edit, and delete tasks.
